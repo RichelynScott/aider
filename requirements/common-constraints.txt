@@ -542,7 +542,7 @@ tokenizers==0.22.2
     #   transformers
 toml==0.10.2
     # via streamlit
-torch==2.10.0
+torch==2.13.0
     # via
     #   -r requirements/requirements-help.in
     #   sentence-transformers
